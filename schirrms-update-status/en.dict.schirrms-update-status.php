@@ -8,7 +8,7 @@
 
 Dict::Add('EN US', 'English', 'English', array(
   // Dictionary entries go here
-  'Class:PhysicalDevice/Attribute:status/Value:decommissioning' => 'under decommissioning',
-  'Class:VirtualDevice/Attribute:status/Value:decommissioning' => 'under decommissioning',
+  'Class:PhysicalDevice/Attribute:status/Value:decommissioning' => 'Under decommissioning',
+  'Class:VirtualDevice/Attribute:status/Value:decommissioning' => 'Under decommissioning',
 ));
 ?>
